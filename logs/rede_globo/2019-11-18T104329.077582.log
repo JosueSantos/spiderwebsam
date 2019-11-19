@@ -1,0 +1,119 @@
+2019-11-18 10:43:29 [scrapy] DEBUG: Crawled (200) <GET https://redeglobo.globo.com/robots.txt> (referer: None)
+2019-11-18 10:43:30 [scrapy] DEBUG: Crawled (200) <GET https://redeglobo.globo.com/tvverdesmares/programacao/> (referer: None)
+2019-11-18 10:44:00 [scrapy] ERROR: Error processing {'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '11',
+ 'horario': '04:00',
+ 'id_section': '201911111',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+Traceback (most recent call last):
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\xampp\htdocs\micro_service\spider_web\spider_web\pipelines.py", line 44, in process_item
+    {"$set":dict(item)}, True
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\collection.py", line 3215, in update
+    write_concern, collation=collation)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\collection.py", line 856, in _update_retryable
+    _update, session)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1491, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1820, in _tmp_session
+    s = self._ensure_session(session)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1807, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1760, in __start_session
+    server_session = self._get_server_session()
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1793, in _get_server_session
+    return self._topology.get_server_session()
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\topology.py", line 477, in get_server_session
+    None)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\topology.py", line 205, in _select_servers_loop
+    self._error_message(selector))
+pymongo.errors.ServerSelectionTimeoutError: 192.168.235.232:27017: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2019-11-18 10:44:30 [scrapy] ERROR: Error processing {'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '11',
+ 'horario': '06:00',
+ 'id_section': '201911112',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+Traceback (most recent call last):
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\xampp\htdocs\micro_service\spider_web\spider_web\pipelines.py", line 44, in process_item
+    {"$set":dict(item)}, True
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\collection.py", line 3215, in update
+    write_concern, collation=collation)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\collection.py", line 856, in _update_retryable
+    _update, session)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1491, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1820, in _tmp_session
+    s = self._ensure_session(session)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1807, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1760, in __start_session
+    server_session = self._get_server_session()
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1793, in _get_server_session
+    return self._topology.get_server_session()
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\topology.py", line 477, in get_server_session
+    None)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\topology.py", line 205, in _select_servers_loop
+    self._error_message(selector))
+pymongo.errors.ServerSelectionTimeoutError: 192.168.235.232:27017: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+2019-11-18 10:45:01 [scrapy] ERROR: Error processing {'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '11',
+ 'horario': '08:00',
+ 'id_section': '201911113',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+Traceback (most recent call last):
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\xampp\htdocs\micro_service\spider_web\spider_web\pipelines.py", line 44, in process_item
+    {"$set":dict(item)}, True
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\collection.py", line 3215, in update
+    write_concern, collation=collation)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\collection.py", line 856, in _update_retryable
+    _update, session)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1491, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1820, in _tmp_session
+    s = self._ensure_session(session)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1807, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1760, in __start_session
+    server_session = self._get_server_session()
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\mongo_client.py", line 1793, in _get_server_session
+    return self._topology.get_server_session()
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\topology.py", line 477, in get_server_session
+    None)
+  File "c:\users\610782341\appdata\local\programs\python\python37-32\lib\site-packages\pymongo\topology.py", line 205, in _select_servers_loop
+    self._error_message(selector))
+pymongo.errors.ServerSelectionTimeoutError: 192.168.235.232:27017: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente

@@ -1,0 +1,3060 @@
+2019-11-18 10:45:29 [scrapy] DEBUG: Crawled (200) <GET https://redeglobo.globo.com/robots.txt> (referer: None)
+2019-11-18 10:45:30 [scrapy] DEBUG: Crawled (200) <GET https://redeglobo.globo.com/tvverdesmares/programacao/> (referer: None)
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '11',
+ 'horario': '04:00',
+ 'id_section': '201911111',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '11',
+ 'horario': '06:00',
+ 'id_section': '201911112',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '11',
+ 'horario': '08:00',
+ 'id_section': '201911113',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '11',
+ 'horario': '09:00',
+ 'id_section': '201911114',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '11',
+ 'horario': '10:30',
+ 'id_section': '201911115',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '11',
+ 'horario': '11:45',
+ 'id_section': '201911116',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '11',
+ 'horario': '12:55',
+ 'id_section': '201911117',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '11',
+ 'horario': '13:25',
+ 'id_section': '201911118',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '11',
+ 'horario': '14:20',
+ 'id_section': '201911119',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A história narra a extraordinária amizade de seis admiráveis '
+              'mulheres do sul dos Estados Unidos, que sempre estão lá para '
+              'enfrentarem juntas os triunfos e tragédias da vida. Um remake '
+              'contemporâneo do clássico do cinema. ',
+ 'dia': '11',
+ 'horario': '15:14',
+ 'id_section': '2019111110',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3575.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Flores de Aço',
+ 'titulo': 'Flores de Aço',
+ 'titulo_original': 'Steel Magnolias '}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '11',
+ 'horario': '16:47',
+ 'id_section': '2019111111',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Serginho fica surpreso com pedido de Guga. ',
+ 'dia': '11',
+ 'horario': '18:01',
+ 'id_section': '2019111112',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7259.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Júlio tem forte crise de dor e não vai a casamento de Assad. ',
+ 'dia': '11',
+ 'horario': '18:32',
+ 'id_section': '2019111113',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7260.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '11',
+ 'horario': '19:15',
+ 'id_section': '2019111114',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Alice pergunta a Ramon se ele desistiu de Paloma. ',
+ 'dia': '11',
+ 'horario': '19:35',
+ 'id_section': '2019111115',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7261.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '11',
+ 'horario': '20:30',
+ 'id_section': '2019111116',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Matilde quer dar recado a Maria da Paz: 'Uma fada ruim roubou a "
+              "filha dela'. ",
+ 'dia': '11',
+ 'horario': '21:18',
+ 'id_section': '2019111117',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7262.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O jovem Baby tem uma mania curiosa: precisa ouvir músicas o '
+              'tempo todo para silenciar o zumbido que perturba seus ouvidos '
+              'desde um acidente na infância. Excelente motorista, ele é o '
+              'piloto de fuga oficial dos assaltos de Doc, mas não vê a hora '
+              'de deixar o cargo, principalmente depois que se vê apaixonado '
+              'pela garçonete Debora.',
+ 'dia': '11',
+ 'horario': '22:21',
+ 'id_section': '2019111118',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7239.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/29.jpg',
+ 'mes': '11',
+ 'pragrama': 'Tela Quente',
+ 'programa_do_dia': 'Tela Quente - Em Ritmo de Fuga',
+ 'titulo': 'Em Ritmo de Fuga',
+ 'titulo_original': 'Baby Driver'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '11',
+ 'horario': '00:12',
+ 'id_section': '2019111119',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Pedro Bial recebe hoje Carlos Vereza e Josias Teófilo, dois '
+              'artistas que se declaram conservadores em um meio '
+              'predominantemente de esquerda.',
+ 'dia': '11',
+ 'horario': '00:51',
+ 'id_section': '2019111120',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Dano’: Morgan Edge culpa Lena pelas crianças que '
+              'ficaram doentes com intoxicação por chumbo.',
+ 'dia': '11',
+ 'horario': '01:38',
+ 'id_section': '2019111121',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7226.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Celeste e Jesse se conheceram na escola e logo resolveram se '
+              'casar. Agora, aos 30 anos, Celeste cuida de sua própria firma '
+              'de consultoria, enquanto Jesse está mais uma vez desempregado e '
+              'não parece se esforçar muito para mudar a situação. É quando '
+              'ela decide que o melhor que ambos têm a fazer é se separar, já '
+              'que isto acontecerá mais cedo ou mais tarde e, se for logo, '
+              'eles ainda poderão continuar amigos. Apesar de ainda ser '
+              'apaixonado pela esposa, Jesse aceita a proposta. Só que a vida '
+              'sozinho não será nem um pouco fácil para ambos. ',
+ 'dia': '11',
+ 'horario': '02:23',
+ 'id_section': '2019111122',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/505.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Celeste e Jesse para Sempre',
+ 'titulo': 'Celeste e Jesse para Sempre',
+ 'titulo_original': 'Celeste and Jesse Forever'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '12',
+ 'horario': '04:00',
+ 'id_section': '201911121',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '12',
+ 'horario': '06:00',
+ 'id_section': '201911122',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '12',
+ 'horario': '08:00',
+ 'id_section': '201911123',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '12',
+ 'horario': '09:00',
+ 'id_section': '201911124',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '12',
+ 'horario': '10:30',
+ 'id_section': '201911125',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '12',
+ 'horario': '11:45',
+ 'id_section': '201911126',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '12',
+ 'horario': '12:55',
+ 'id_section': '201911127',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '12',
+ 'horario': '13:25',
+ 'id_section': '201911128',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '12',
+ 'horario': '14:20',
+ 'id_section': '201911129',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A adolescente Sanne herdou do pai, um famoso caçador de '
+              'fantasmas, a paixão por criaturas fantásticas e outros '
+              'mistérios. Ao lado do irmão, Thomas, a menina é convidada a '
+              'acompanhar o pai em sua busca por fantasmas num antigo navio '
+              'cruzeiro, onde ela irá conhecer o espírito de um jovem que está '
+              'vagando no local desde os anos 1960. Sanne decidirá ajudar os '
+              'fantasmas do navio, na esperança de que eles, enfim, possam '
+              'prosseguir para a outra vida.',
+ 'dia': '12',
+ 'horario': '15:16',
+ 'id_section': '2019111210',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5223.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Fantasmas a Bordo',
+ 'titulo': 'Fantasmas a Bordo',
+ 'titulo_original': 'Bobby en de Geestenjagers'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '12',
+ 'horario': '16:48',
+ 'id_section': '2019111211',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Meg decide se mudar e tem conversa séria com Max.',
+ 'dia': '12',
+ 'horario': '18:01',
+ 'id_section': '2019111212',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7264.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Júlio fica sem palavras ao se despedir de Alfredo.',
+ 'dia': '12',
+ 'horario': '18:33',
+ 'id_section': '2019111213',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7265.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '12',
+ 'horario': '19:16',
+ 'id_section': '2019111214',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Paloma vira Dona Flor e protagoniza cena clássica com seus dois '
+              'maridos.',
+ 'dia': '12',
+ 'horario': '19:36',
+ 'id_section': '2019111215',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7266.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '12',
+ 'horario': '20:30',
+ 'id_section': '2019111216',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Josiane é condenada a 30 anos de prisão por assassinatos.',
+ 'dia': '12',
+ 'horario': '21:17',
+ 'id_section': '2019111217',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7267.png',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Maicon Douglas se desespera ao ver filho correndo risco de '
+              'vida.',
+ 'dia': '12',
+ 'horario': '22:17',
+ 'id_section': '2019111218',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7268.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6875.jpg',
+ 'mes': '11',
+ 'pragrama': 'Segunda Chamada',
+ 'programa_do_dia': 'Segunda Chamada',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Depois de muito gazetear, Geraldinho volta à escola.',
+ 'dia': '12',
+ 'horario': '23:02',
+ 'id_section': '2019111219',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6878.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6877.jpg',
+ 'mes': '11',
+ 'pragrama': 'Filhos da Pátria',
+ 'programa_do_dia': 'Filhos da Pátria',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '12',
+ 'horario': '23:54',
+ 'id_section': '2019111220',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Uma conversa com a consultora Costanza Pascolato, que acaba de '
+              'completar 80 anos lançando um livro que reúne memórias e dicas '
+              'atemporais de etiqueta e de estilo, e suas filhas Consuelo e '
+              'Alessandra Blocker.',
+ 'dia': '12',
+ 'horario': '00:32',
+ 'id_section': '2019111221',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Midvale’: Kara e Alex vão para Midvale para um pouco '
+              'de descanso. Lá, Kara relembra a dolorosa memória da morte de '
+              'um amigo de infância e como a traumática experiência aproximou '
+              'as irmãs Danvers.',
+ 'dia': '12',
+ 'horario': '01:17',
+ 'id_section': '2019111222',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7228.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Joe Brody criou o filho sozinho após a morte da esposa em um '
+              'acidente na usina nuclear em que ambos trabalhavam, no Japão. '
+              'Ele nunca aceitou a catástrofe e, 15 anos depois, continua '
+              'remoendo o acontecido, tentando encontrar alguma explicação. '
+              'Ford Brody, agora adulto, é soldado do exército americano e '
+              'precisa lutar desesperadamente para salvar a população mundial '
+              '- e em especial sua família - do gigantesco, inabalável e '
+              'incrivelmente assustador monstro Godzilla. ',
+ 'dia': '12',
+ 'horario': '02:06',
+ 'id_section': '2019111223',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6420.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Godzilla',
+ 'titulo': 'Godzilla',
+ 'titulo_original': 'Godzilla'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '13',
+ 'horario': '04:00',
+ 'id_section': '201911131',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '13',
+ 'horario': '06:00',
+ 'id_section': '201911132',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '13',
+ 'horario': '08:00',
+ 'id_section': '201911133',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '13',
+ 'horario': '09:00',
+ 'id_section': '201911134',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '13',
+ 'horario': '10:30',
+ 'id_section': '201911135',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '13',
+ 'horario': '11:45',
+ 'id_section': '201911136',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '13',
+ 'horario': '12:55',
+ 'id_section': '201911137',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '13',
+ 'horario': '13:25',
+ 'id_section': '201911138',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '13',
+ 'horario': '14:20',
+ 'id_section': '201911139',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Arquiteto workaholic e estressado está decidido a conquistar a '
+              'aprovação de seu chefe para que possa ser nomeado sócio da '
+              'empresa. Por esta razão, deixa sua família em segundo plano. '
+              'Certa noite, irritado quando não consegue descobrir qual de '
+              'seus controles remotos liga a TV, ele busca um controle '
+              'universal e recebe de um vendedor excêntrico um que permite que '
+              'ele avance no tempo de sua vida.',
+ 'dia': '13',
+ 'horario': '15:14',
+ 'id_section': '2019111310',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3312.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Click',
+ 'titulo': 'Click',
+ 'titulo_original': 'Click'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '13',
+ 'horario': '16:44',
+ 'id_section': '2019111311',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Rui faz Joaquim perder o controle e propõe aliança a Rita.',
+ 'dia': '13',
+ 'horario': '18:01',
+ 'id_section': '2019111312',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7269.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Bolsa de Olga estoura, e Zeca toma decisão: 'Eu vou fazer o "
+              "parto da minha mulher!'.",
+ 'dia': '13',
+ 'horario': '18:33',
+ 'id_section': '2019111313',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7270.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '13',
+ 'horario': '19:16',
+ 'id_section': '2019111314',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Marcos pede Paloma em namoro.',
+ 'dia': '13',
+ 'horario': '19:37',
+ 'id_section': '2019111315',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7271.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '13',
+ 'horario': '20:30',
+ 'id_section': '2019111316',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Agno pede Leandro em casamento.',
+ 'dia': '13',
+ 'horario': '21:18',
+ 'id_section': '2019111317',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7272.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Após ser vítima de um golpe que roubou todo seu dinheiro, '
+              'Valdomiro se muda para a pensão da Dona Jô, no Méier, bairro '
+              'localizado no subúrbio do Rio de Janeiro, onde pretende escapar '
+              'da polícia. Para sobreviver, ele passa a vender quentinhas '
+              'pelas redondezas. A situação muda mais uma vez quando Andrade, '
+              'seu ex-sócio, consegue fazer com que Valdomiro recupere sua '
+              'cobertura no Leblon. Mas há um problema: como a pensão foi '
+              'interditada pela defesa civil, Dona Jô e os demais moradores se '
+              'mudam para a casa de Valdomiro.',
+ 'dia': '13',
+ 'horario': '22:17',
+ 'id_section': '2019111318',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/420.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/419.jpg',
+ 'mes': '11',
+ 'pragrama': 'Cinema Especial',
+ 'programa_do_dia': 'Cinema Especial - Vai Que Cola - O Filme',
+ 'titulo': 'Vai Que Cola   O Filme',
+ 'titulo_original': 'Vai Que Cola - O Filme'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': ' Os bastidores da notícia e os desafios da reportagem. '
+              'Diferentes olhares sob o comando de Caco Barcellos',
+ 'dia': '13',
+ 'horario': '23:54',
+ 'id_section': '2019111319',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2917.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5217.jpg',
+ 'mes': '11',
+ 'pragrama': 'Profissão: Repórter',
+ 'programa_do_dia': 'Profissão: Repórter',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '13',
+ 'horario': '00:35',
+ 'id_section': '2019111320',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Pedro Bial recebe os medalhistas olímpicos Arthur Nory Mariano '
+              'e Isaquias Queiroz para falar dos títulos mundiais e da '
+              'expectativa para as Olimpíadas de 2020.',
+ 'dia': '13',
+ 'horario': '01:15',
+ 'id_section': '2019111321',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Acorde’: Kara investiga quando um navio alienígena '
+              'atinge as profundezas subaquáticas de National City. Hank tenta '
+              'se aproximar de seu pai, e Samantha busca sua distante mãe à '
+              'procura de respostas. ',
+ 'dia': '13',
+ 'horario': '02:02',
+ 'id_section': '2019111322',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7229.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O casamento perfeito de John e Elissa sai dos trilhos quando '
+              'seus amigos da faculdade se embebedam de tequila.',
+ 'dia': '13',
+ 'horario': '02:43',
+ 'id_section': '2019111323',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5638.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Lua de Mel Incomum',
+ 'titulo': 'Lua de Mel Incomum',
+ 'titulo_original': 'Drunk Wedding'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '14',
+ 'horario': '04:00',
+ 'id_section': '201911141',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '14',
+ 'horario': '06:00',
+ 'id_section': '201911142',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '14',
+ 'horario': '08:00',
+ 'id_section': '201911143',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '14',
+ 'horario': '09:00',
+ 'id_section': '201911144',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '14',
+ 'horario': '10:30',
+ 'id_section': '201911145',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '14',
+ 'horario': '11:45',
+ 'id_section': '201911146',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '14',
+ 'horario': '12:55',
+ 'id_section': '201911147',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '14',
+ 'horario': '13:25',
+ 'id_section': '201911148',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '14',
+ 'horario': '14:20',
+ 'id_section': '201911149',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Um homem sempre dividido entre a família e o trabalho passa por '
+              'um momento trágico em sua vida. Ao tomar conta de seu filho '
+              'Joe, de dois anos de idade, a pedido de sua esposa Christal, '
+              'Randy se distrai e a criança desaparece. Atormentado pela '
+              'culpa, Randy se junta a Christal e a centenas de outros membros '
+              'da comunidade local em uma busca por seu filho desaparecido, '
+              'mudando a vida de muitos dos envolvidos.',
+ 'dia': '14',
+ 'horario': '15:15',
+ 'id_section': '2019111410',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3852.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Resgate de uma Vida',
+ 'titulo': 'Resgate de uma Vida',
+ 'titulo_original': 'The Way Home'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '14',
+ 'horario': '16:48',
+ 'id_section': '2019111411',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leila faz revelação sobre Rui e deixa Filipe preocupado.',
+ 'dia': '14',
+ 'horario': '17:58',
+ 'id_section': '2019111412',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7277.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Clotilde e Almeida se reencontram após 10 anos.',
+ 'dia': '14',
+ 'horario': '18:30',
+ 'id_section': '2019111413',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7278.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '14',
+ 'horario': '19:15',
+ 'id_section': '2019111414',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Silvana filma traição de Diogo.',
+ 'dia': '14',
+ 'horario': '19:35',
+ 'id_section': '2019111415',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7279.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '14',
+ 'horario': '20:30',
+ 'id_section': '2019111416',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Sai resultado do exame de DNA de Joana.',
+ 'dia': '14',
+ 'horario': '21:20',
+ 'id_section': '2019111417',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7280.png',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O episódio de hoje da fase ‘Na pressão’ traz novos ensinamentos '
+              'sobre gastronomia regional com o pesquisador da caatinga '
+              'Timóteo Domingos e o especialista em escambo Roney Almeida.',
+ 'dia': '14',
+ 'horario': '22:23',
+ 'id_section': '2019111418',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7274.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6873.png',
+ 'mes': '11',
+ 'pragrama': 'Mestre do Sabor',
+ 'programa_do_dia': 'Mestre do Sabor',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Episódio 'Ilhas - Segunda Parte': As gêmeas sofrem complicações "
+              'com a cirurgia de separação e o hospital precisa tomar uma '
+              'importante decisão. Enquanto isso, Shaun volta para anunciar '
+              'sua saída do hospital.',
+ 'dia': '14',
+ 'horario': '23:42',
+ 'id_section': '2019111419',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7230.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6611.jpeg',
+ 'mes': '11',
+ 'pragrama': 'The Good Doctor: O Bom Doutor',
+ 'programa_do_dia': 'The Good Doctor: O Bom Doutor',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '14',
+ 'horario': '00:28',
+ 'id_section': '2019111420',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Entrevista com Lewis Hamilton, o piloto inglês da Mercedes, que '
+              'conquistou no último domingo (3/11) seu sexto título na Fórmula '
+              '1 e que estará em São Paulo para disputar o GP do Brasil.',
+ 'dia': '14',
+ 'horario': '01:11',
+ 'id_section': '2019111421',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7275.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Crise na Terra X – Parte 1’: O grupo se aproxima para '
+              'o casamento de Barry e Iris, mas a cerimônia é invadida por '
+              'vilões da Terra-X.',
+ 'dia': '14',
+ 'horario': '01:57',
+ 'id_section': '2019111422',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7231.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Interior do Ceará, década de 1970. A popularização da TV '
+              'permitiu que os habitantes da cidade desfrutassem de um bem, '
+              'até então, desconhecido. Porém, o televisor afastou as pessoas '
+              'dos cinemas. É aí que Francisgleydisson entra em ação. Ele é o '
+              'proprietário do Cine Holiúdy, um pequeno cinema da cidade que '
+              'terá a difícil missão de se manter vivo como opção de '
+              'entretenimento. ',
+ 'dia': '14',
+ 'horario': '02:43',
+ 'id_section': '2019111423',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1881.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Cine Holliúdy',
+ 'titulo': 'Cine Holliúdy',
+ 'titulo_original': 'Cine Holliúdy'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '15',
+ 'horario': '04:00',
+ 'id_section': '201911151',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '15',
+ 'horario': '06:00',
+ 'id_section': '201911152',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '15',
+ 'horario': '08:00',
+ 'id_section': '201911153',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '15',
+ 'horario': '09:00',
+ 'id_section': '201911154',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '15',
+ 'horario': '10:30',
+ 'id_section': '201911155',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '15',
+ 'horario': '11:45',
+ 'id_section': '201911156',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '15',
+ 'horario': '12:45',
+ 'id_section': '201911157',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '15',
+ 'horario': '13:15',
+ 'id_section': '201911158',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': None,
+ 'dia': '15',
+ 'horario': '14:00',
+ 'id_section': '201911159',
+ 'imagem_programa': None,
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4390.jpg',
+ 'mes': '11',
+ 'pragrama': 'Futebol',
+ 'programa_do_dia': 'Futebol - Brasil x Argentina',
+ 'titulo': 'Brasil x Argentina',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Alexander Cooper tenta convencer a família de que existem dias '
+              'em que absolutamente nada dá certo. Na véspera do seu '
+              'aniversário de 12 anos, ele deseja que todos tenham um dia '
+              'verdadeiramente ruim. Para sua completa surpresa, a família '
+              'enfrenta uma série de situações terríveis ao longo de todo o '
+              'dia.',
+ 'dia': '15',
+ 'horario': '16:01',
+ 'id_section': '2019111510',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3592.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Alexandre e o Dia Terrível, Horrível, '
+                    'Espantoso e Horroroso',
+ 'titulo': 'Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso',
+ 'titulo_original': ' Alexander and the Terrible, Horrible, No Good, Very Bad '
+                    'Day'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '15',
+ 'horario': '17:18',
+ 'id_section': '2019111511',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Lara diz que Rita mentiu em juízo e cobra explicações em '
+              'audiência.',
+ 'dia': '15',
+ 'horario': '17:59',
+ 'id_section': '2019111512',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7304.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Júlio morre na frente da família. O patriarca receberá uma '
+              'transfusão de sangue de Alfredo, mas não vai resistir aos '
+              'problemas de saúde causados pela úlcera. ',
+ 'dia': '15',
+ 'horario': '18:32',
+ 'id_section': '2019111513',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7305.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '15',
+ 'horario': '19:17',
+ 'id_section': '2019111514',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Marcos desmonta 'ninho de amor' e ganha elogio de Paloma.",
+ 'dia': '15',
+ 'horario': '19:37',
+ 'id_section': '2019111515',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7306.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '15',
+ 'horario': '20:30',
+ 'id_section': '2019111516',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Documento que devolve fábrica a Maria da Paz é encontrado. Agno '
+              'acha o papel na casa de Beatriz. ',
+ 'dia': '15',
+ 'horario': '21:17',
+ 'id_section': '2019111517',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7307.png',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Com apresentação de Glória Maria e Sandra Annenberg, o programa '
+              'viaja até Amã, capital da Jordânia, e desbrava oito mil anos de '
+              'cultura e história do lugar.',
+ 'dia': '15',
+ 'horario': '22:21',
+ 'id_section': '2019111518',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7281.jpeg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/44.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Repórter',
+ 'programa_do_dia': 'Globo Repórter',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Episódio 'Quando em Roma': Ainda em conflito, Will e Frankie "
+              'podem comprometer a próxima missão da equipe na Itália para '
+              'impedir que um ataque terrorista ocorra na capital.',
+ 'dia': '15',
+ 'horario': '23:11',
+ 'id_section': '2019111519',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7233.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5873.png',
+ 'mes': '11',
+ 'pragrama': 'Sessão Globoplay',
+ 'programa_do_dia': 'Sessão Globoplay',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '15',
+ 'horario': '23:58',
+ 'id_section': '2019111520',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Pedro Bial conversa com Pitty e Duda Beat, cantoras que vieram '
+              'do Nordeste, romperam padrões e estão deixando marca própria no '
+              'cenário musical brasileiro. ',
+ 'dia': '15',
+ 'horario': '00:41',
+ 'id_section': '2019111521',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7282.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Reign’: Supergirl investiga um símbolo misterioso que '
+              'está aparecendo em toda National City, rastreando sua origem a '
+              'uma antiga profecia e à marca da destruidora de mundo, Reign.',
+ 'dia': '15',
+ 'horario': '01:26',
+ 'id_section': '2019111522',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7232.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Jovem atraente e comunicativa, mas com pouco dinheiro e vários '
+              'relacionamentos fracassados, busca estilo de vida diferente. '
+              'Victor é homem rico e educado, limitado por uma doença e um pai '
+              'dominador. Seu desejo é escapar da vida de enfermidades e '
+              'isolamento em que se encontra. Quando se conhecem, concluem que '
+              'cada qual tem algo a dar ao outro, e, a medida que este amor '
+              'cresce, a doença, colocada em segundo plano, dá lugar a '
+              'esperança.',
+ 'dia': '15',
+ 'horario': '02:14',
+ 'id_section': '2019111523',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/549.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Tudo por Amor',
+ 'titulo': 'Tudo por Amor',
+ 'titulo_original': 'Dying Young'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Sônia e Hugo são da alta burguesia carioca e levam uma vida '
+              'bastante confortável. Aos poucos vão à falência, mas ninguém '
+              'sabe de seus problemas financeiros, nem mesmo o filho Jean, que '
+              'faz de tudo para se desvencilhar dos pais superprotetores. Para '
+              'se manter, o casal corta despesas e ele, que só se preocupava '
+              'com garotas e vestibular, enfrenta pela primeira vez a '
+              'realidade.',
+ 'dia': '15',
+ 'horario': '04:01',
+ 'id_section': '2019111524',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5124.jpeg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão II',
+ 'programa_do_dia': 'Corujão II - Casa Grande',
+ 'titulo': 'Casa Grande',
+ 'titulo_original': 'Casa Grande'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Apresentado por Luciano Cabral, o programa viaja a lugares do '
+              'país para mostrar folclore, artesanato, arquitetura, receitas, '
+              'música e esportes de aventura.',
+ 'dia': '16',
+ 'horario': '06:13',
+ 'id_section': '201911161',
+ 'imagem_programa': None,
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1530.jpg',
+ 'mes': '11',
+ 'pragrama': 'Via Brasil',
+ 'programa_do_dia': 'Via Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Apresentado por Sandra Annenberg, o programa de hoje fala sobre '
+              'ideias sustentáveis.',
+ 'dia': '16',
+ 'horario': '07:13',
+ 'id_section': '201911162',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7273.jpeg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/46.jpg',
+ 'mes': '11',
+ 'pragrama': 'Como Será?',
+ 'programa_do_dia': 'Como Será?',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Furtado, André Marques, Cissa Guimarães, Patrícia Poeta, '
+              'Tiago Leifert e Zeca Camargo comandam programa de variedades '
+              'das manhãs de sábado, ao vivo.',
+ 'dia': '16',
+ 'horario': '09:00',
+ 'id_section': '201911163',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/889.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/47.jpg',
+ 'mes': '11',
+ 'pragrama': 'É de Casa',
+ 'programa_do_dia': 'É de Casa',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '16',
+ 'horario': '12:00',
+ 'id_section': '201911164',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '16',
+ 'horario': '12:55',
+ 'id_section': '201911165',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '16',
+ 'horario': '13:25',
+ 'id_section': '201911166',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Com direção de Dennis Carvalho, textos do jornalista Artur '
+              'Xexéo e redação final de Miguel Falabella, o humorístico volta '
+              'ao mesmo palco – o Teatro Procópio Ferreira, em São Paulo. Os '
+              'episódios trazem Caco Antibes (Miguel Falabella), Magda (Marisa '
+              'Orth), Vavá (Luiz Gustavo), Cassandra (Aracy Balabanian) e '
+              'Neide Aparecida (Márcia Cabrita).',
+ 'dia': '16',
+ 'horario': '14:04',
+ 'id_section': '201911167',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/890.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/48.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sai de Baixo',
+ 'programa_do_dia': 'Sai de Baixo - As Sete Vidas de Caco Antibes',
+ 'titulo': 'As Sete Vidas de Caco Antibes',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Exibição do treinos classificatório de Fórmula 1 para o GP do '
+              'Brasil',
+ 'dia': '16',
+ 'horario': '15:00',
+ 'id_section': '201911168',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1076.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/112.jpg',
+ 'mes': '11',
+ 'pragrama': 'Treino Fórmula 1',
+ 'programa_do_dia': 'Treino Fórmula 1',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'No programa de hoje, o quadro ‘Lata Velha’ reforma van de time '
+              'de futebol feminino do Espírito Santo.',
+ 'dia': '16',
+ 'horario': '16:09',
+ 'id_section': '201911169',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/892.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1531.jpg',
+ 'mes': '11',
+ 'pragrama': 'Caldeirão do Huck',
+ 'programa_do_dia': 'Caldeirão do Huck',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Marion se emociona em conversa com Lola sobre Júlio.',
+ 'dia': '16',
+ 'horario': '18:37',
+ 'id_section': '2019111610',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7308.png',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '16',
+ 'horario': '19:19',
+ 'id_section': '2019111611',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Eugênia dá ultimato a Diogo sobre traição: 'Conta pra Nana ou "
+              "eu conto'.",
+ 'dia': '16',
+ 'horario': '19:39',
+ 'id_section': '2019111612',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7309.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '16',
+ 'horario': '20:30',
+ 'id_section': '2019111613',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Mudança pela fé: Josiane garante que mudou e pede para Gerusa '
+              'lhe ensinar mais sobre a Bíblia',
+ 'dia': '16',
+ 'horario': '21:22',
+ 'id_section': '2019111614',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5598.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Humorístico aborda questões da sociedade e seus costumes em '
+              'esquetes rápidos, piadas visuais e muita música. Tem redação '
+              'final de Marcius Melhem, Celso Taddei e Gabriela Amaral, '
+              'direção geral de Mauro Farias e direção de núcleo de Maurício '
+              'Farias.',
+ 'dia': '16',
+ 'horario': '22:19',
+ 'id_section': '2019111615',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5293.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5310.png',
+ 'mes': '11',
+ 'pragrama': 'Zorra',
+ 'programa_do_dia': 'Zorra',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Cauã Reymond, Marília Gabriela e Whindersson Nunes falam de '
+              'seus novos projetos.',
+ 'dia': '16',
+ 'horario': '22:50',
+ 'id_section': '2019111616',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7276.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1532.jpg',
+ 'mes': '11',
+ 'pragrama': 'Altas Horas',
+ 'programa_do_dia': 'Altas Horas',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Baseado em uma história real, o filme conta a história de dois '
+              'jovens indianos jogadores de críquete descobertos pelo agente '
+              'esportivo J. B. Bernstein. Através de técnicas de recrutamento '
+              'pouco convencionais, ele leva os rapazes para os Estados Unidos '
+              'com o objetivo de torná-los grandes jogadores de beisebol.',
+ 'dia': '16',
+ 'horario': '00:39',
+ 'id_section': '2019111617',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4477.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/54.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supercine',
+ 'programa_do_dia': 'Supercine - Arremesso De Ouro',
+ 'titulo': 'Arremesso De Ouro',
+ 'titulo_original': 'Million Dollar Arm'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Em 1918, o assassinato do geólogo alemão José Gosch interrompe '
+              'a busca do petróleo em Alagoas. Anos depois, seu filho Pedro e '
+              'seu afilhado João Martins perseguem, por caminhos diferentes, o '
+              'sonho de Gosh. Ansiando pelo progresso nacional, João participa '
+              'do processo de descoberta do petróleo e, ao mesmo tempo, vive '
+              'uma emocionante história de amor. Livremente inspirado em fatos '
+              'reais. ',
+ 'dia': '16',
+ 'horario': '02:43',
+ 'id_section': '2019111618',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3505.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Ouro Negro',
+ 'titulo': 'Ouro Negro',
+ 'titulo_original': 'Ouro Negro'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Três adolescentes em uma missão altamente secreta! Eles são '
+              'amigos pra valer e têm talentos muitos especiais: uma campeã em '
+              'escalada, um gênio da computação e um mago da mecânica. O '
+              'desafio: abrir o cofre de um banco de alta tecnologia e fazer '
+              'um incrível assalto - tudo isso para salvar o pai de Maddy que '
+              'está muito doente. Eles têm um plano perfeito e nem têm idade '
+              'para dirigir!',
+ 'dia': '16',
+ 'horario': '04:37',
+ 'id_section': '2019111619',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6484.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão II',
+ 'programa_do_dia': 'Corujão II - Segurem Essas Crianças',
+ 'titulo': 'Segurem Essas Crianças',
+ 'titulo_original': 'Catch That Kid'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '18',
+ 'horario': '04:00',
+ 'id_section': '201911181',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '18',
+ 'horario': '06:00',
+ 'id_section': '201911182',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '18',
+ 'horario': '08:00',
+ 'id_section': '201911183',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '18',
+ 'horario': '09:00',
+ 'id_section': '201911184',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '18',
+ 'horario': '10:30',
+ 'id_section': '201911185',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '18',
+ 'horario': '12:00',
+ 'id_section': '201911186',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '18',
+ 'horario': '13:00',
+ 'id_section': '201911187',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '18',
+ 'horario': '13:25',
+ 'id_section': '201911188',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '18',
+ 'horario': '14:17',
+ 'id_section': '201911189',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Desde o nascimento, Anna foi submetida a diversos procedimentos '
+              'médicos para ajudar a irmã mais velha, Kate, que sofre de '
+              'leucemia. Ao completar onze anos, Anna decide enfrentar os '
+              'pais, Sara e Brian fitzgerald, e lutar na justiça por sua '
+              'emancipação médica. Sem revelar os seus verdadeiros motivos, '
+              'ela irá abalar a vida de toda a família. ',
+ 'dia': '18',
+ 'horario': '15:12',
+ 'id_section': '2019111810',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3501.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Uma Prova de Amor',
+ 'titulo': 'Uma Prova de Amor',
+ 'titulo_original': "My Sister's Keeper"}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '18',
+ 'horario': '16:39',
+ 'id_section': '2019111811',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Beto pede para voltar com Meg, mas impõe condição que a deixa '
+              'revoltada. Ex-namorado diz que separação foi um erro e pede que '
+              'a gestante dê o filho para os avós cuidarem quando nascer',
+ 'dia': '18',
+ 'horario': '17:53',
+ 'id_section': '2019111812',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7312.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Clotilde vê Almeida beijando Natália. A irmã de Lola toma '
+              'coragem de falar com seu grande amor, mas descobre que ele já '
+              'tem outra pessoa ',
+ 'dia': '18',
+ 'horario': '18:25',
+ 'id_section': '2019111813',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7313.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '18',
+ 'horario': '19:08',
+ 'id_section': '2019111814',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Diogo confessa traição a Nana. A executiva expulsa o marido de '
+              'sua sala em alto e bom som',
+ 'dia': '18',
+ 'horario': '19:28',
+ 'id_section': '2019111815',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7314.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '18',
+ 'horario': '20:30',
+ 'id_section': '2019111816',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Régis se encontra em culto religioso',
+ 'dia': '18',
+ 'horario': '21:19',
+ 'id_section': '2019111817',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7315.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O dr. Max Goodwin é brilhante, charmoso e também o novo diretor '
+              'médico do hospital público mais antigo dos Estados Unidos. Lá, '
+              'ele está decidido a derrubar burocracias para prestar cuidados '
+              'excepcionais.',
+ 'dia': '18',
+ 'horario': '22:26',
+ 'id_section': '2019111818',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7284.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/29.jpg',
+ 'mes': '11',
+ 'pragrama': 'Tela Quente',
+ 'programa_do_dia': 'Tela Quente - Hospital New Amsterdam - Toda Vida Importa',
+ 'titulo': 'Hospital New Amsterdam   Toda Vida Importa',
+ 'titulo_original': 'New Amsterdam'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '18',
+ 'horario': '23:50',
+ 'id_section': '2019111819',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz '
+              'entretenimento de qualidade e quem pode contribuir em debates '
+              'relevantes para a sociedade brasileira. ',
+ 'dia': '18',
+ 'horario': '00:29',
+ 'id_section': '2019111820',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Legião dos Super-Heróis’: Supergirl permanece em um '
+              'estado de sonho após os ferimentos causados por Reign, então '
+              'Mon-El recruta Brainiac-5, um membro da Legião, para trazê-la '
+              'de volta.',
+ 'dia': '18',
+ 'horario': '01:13',
+ 'id_section': '2019111821',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7285.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Durante a Depressão, mais exatamente no inverno de 1931, '
+              'Michael Sullivan é um zeloso pai de família, que ama muito sua '
+              'esposa, Annie Sullivan, e seus filhos, Michael Sullivan Jr. e '
+              'Peter Sullivan. Porém, ele vive moralmente em conflito, pois '
+              'trabalha como assassino profissional para um irlandês, John '
+              'Rooney, um idoso chefe de quadrilha que criou Sullivan como se '
+              'fosse seu filho. Michael Jr., o filho mais velho, fica curioso '
+              'sobre a profissão misteriosa do seu pai, então se esconde no '
+              'automóvel dele e acaba testemunhando a execução de Finn '
+              'McGovern, que foi morto por Connor Rooney, o filho biológico de '
+              'John. Michael vê seu pai e outros capangas ajudarem a terminar '
+              'o "serviço", ficando tão apavorado que tenta fugir. '
+              'Rapidamente, seu pai entende que o filho viu tudo, mas Sullivan '
+              'tentou acalmar Connor, dizendo que seu filho não diria nada. '
+              'Aparentemente, ele teve sucesso, mas Connor é, na verdade, bem '
+              'paranoico e instável. Connor acredita que só terá segurança '
+              'quando Sullivan e toda a sua família estiver morta, logo, ele '
+              'mesmo mata a mulher de Sullivan e Peter, o caçula. Porém, '
+              'Sullivan, que seria morto em outro local, consegue escapar e '
+              'rapidamente pega Michael e foge. Enfurecido com estas traições, '
+              'Sullivan decide se vingar, mas antes pretende deixar o filho '
+              'com parentes em perdição, uma cidade rural. Quando o perigo '
+              'eminente passa, ele acaba expondo para Michael os aspectos mais '
+              'sangrentos de sua profissão, mas logo Harlen Maguire, um '
+              'assassino profissional, está no seu encalço. Sullivan tenta, '
+              'então, atingir os mafiosos, roubando altas quantias que eles '
+              'têm em bancos, pois pretende forçar as quadrilhas que ofereçam '
+              'Connor em sacrifício para ele, em troca, terminar com os '
+              'roubos.',
+ 'dia': '18',
+ 'horario': '01:58',
+ 'id_section': '2019111822',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5491.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Estrada para Perdição',
+ 'titulo': 'Estrada para Perdição',
+ 'titulo_original': 'Road To Perdition'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '19',
+ 'horario': '04:00',
+ 'id_section': '201911191',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '19',
+ 'horario': '06:00',
+ 'id_section': '201911192',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '19',
+ 'horario': '08:00',
+ 'id_section': '201911193',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '19',
+ 'horario': '09:00',
+ 'id_section': '201911194',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': None,
+ 'dia': '19',
+ 'horario': '10:30',
+ 'id_section': '201911195',
+ 'imagem_programa': None,
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4390.jpg',
+ 'mes': '11',
+ 'pragrama': 'Futebol',
+ 'programa_do_dia': 'Futebol',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '19',
+ 'horario': '12:25',
+ 'id_section': '201911196',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '19',
+ 'horario': '13:06',
+ 'id_section': '201911197',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '19',
+ 'horario': '13:30',
+ 'id_section': '201911198',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '19',
+ 'horario': '14:21',
+ 'id_section': '201911199',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Holly Berenson e Eric Messer se conhecem, mas o primeiro '
+              'encontro deles é um verdadeiro desastre. A única coisa que eles '
+              'têm em comum é a paixão pela afilhada Sophie. Só que um '
+              'acidente fatal deixou a menina órfã dos pais e a dupla foi '
+              'designada para cuidar da pequenina. Obrigados a permanecerem '
+              'juntos para cuidar dela, eles enfrentam as dificuldades típicas '
+              'de quem passa a ser pai e mãe de uma hora para outra e começam '
+              'a se entender melhor.',
+ 'dia': '19',
+ 'horario': '15:17',
+ 'id_section': '2019111910',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7288.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Juntos pelo Acaso',
+ 'titulo': 'Juntos pelo Acaso',
+ 'titulo_original': 'Life As We Know It'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '19',
+ 'horario': '16:52',
+ 'id_section': '2019111911',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por Emanuel Jacobina, com supervisão artística de '
+              'Carlos Araujo e direção artística de Adriano Melo, a trama traz '
+              'histórias de amor que se cruzam, sejam elas sobre casais, pais '
+              'e filhos, irmãos ou um grupo de amigos.',
+ 'dia': '19',
+ 'horario': '18:00',
+ 'id_section': '2019111912',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5281.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "'Éramos Seis' é um remake que traz a história da família Lemos, "
+              'retratada ao longo de três décadas — 1920, 1930 e 1940 —, '
+              'diante dos desafios que a vida impõe e a rede de apoio que se '
+              'forma ao seu redor para superá-los.',
+ 'dia': '19',
+ 'horario': '18:32',
+ 'id_section': '2019111913',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7201.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '19',
+ 'horario': '19:15',
+ 'id_section': '2019111914',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A trama ressalta o valor da vida e a importância de se '
+              'aproveitar cada momento, a partir do encontro de Paloma e '
+              'Alberto.',
+ 'dia': '19',
+ 'horario': '19:35',
+ 'id_section': '2019111915',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6233.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '19',
+ 'horario': '20:30',
+ 'id_section': '2019111916',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Escrita por Walcyr Carrasco, 'A Dona do Pedaço' exalta o poder "
+              'feminino por meio da trajetória de Maria e traz uma história '
+              'contemporânea de amor com elementos de um dos maiores clássicos '
+              'da literatura mundial: Romeu e Julieta.',
+ 'dia': '19',
+ 'horario': '21:17',
+ 'id_section': '2019111917',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5598.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Jaci é obrigado a afastar Lúcia da escola após comportamento '
+              'impróprio da professora.',
+ 'dia': '19',
+ 'horario': '22:18',
+ 'id_section': '2019111918',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7299.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6875.jpg',
+ 'mes': '11',
+ 'pragrama': 'Segunda Chamada',
+ 'programa_do_dia': 'Segunda Chamada',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Catarina começa a escrever no O Jornal e Geraldinho se torna '
+              'chefe de turma. Já Geraldo ganha mais uma atribuição no Catete '
+              'e Lucélia inicia curso para professora.',
+ 'dia': '19',
+ 'horario': '23:04',
+ 'id_section': '2019111919',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7300.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6877.jpg',
+ 'mes': '11',
+ 'pragrama': 'Filhos da Pátria',
+ 'programa_do_dia': 'Filhos da Pátria',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '19',
+ 'horario': '23:43',
+ 'id_section': '2019111920',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz '
+              'entretenimento de qualidade e quem pode contribuir em debates '
+              'relevantes para a sociedade brasileira. ',
+ 'dia': '19',
+ 'horario': '00:22',
+ 'id_section': '2019111921',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio ‘Fort Rozz’: Supergirl e Saturn Girl recrutam Livewire '
+              'e Psi para uma missão com objetivo de resgatar um prisioneiro '
+              'do Fort Rozz que sabe como derrotar Reign.',
+ 'dia': '19',
+ 'horario': '01:07',
+ 'id_section': '2019111922',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7290.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Tobey Marshall herdou do pai uma oficina mecânica, onde, '
+              'juntamente com sua equipe, modifica carros para que se tornem o '
+              'mais rápido possível. Além disso, Tobey é um exímio piloto e '
+              'volta e meia participa de rachas. Um dia, o ex-piloto da '
+              'Fórmula Indy Dino Brewster o procura para que Tobey possa '
+              'concluir um Mustang desenvolvido por um gênio da mecânica que '
+              'já faleceu. Apesar das divergências entre eles, Tobey aceita a '
+              'proposta por precisar muito do pagamento oferecido por Dino. O '
+              'carro é concluído e, posteriormente, vendido. Entretanto, a '
+              'velha rixa entre eles faz com que disputem um último racha, que '
+              'conta ainda com a participação de Pete, grande amigo de Tobey. '
+              'A corrida termina em tragédia devido ao falecimento de Pete. '
+              'Considerado culpado pela morte, Tobey passa dois anos na '
+              'prisão. Quando, enfim, é solto, ele organiza um plano para que '
+              'possa participar de uma conhecida corrida do submundo na qual '
+              'Dino também correrá.',
+ 'dia': '19',
+ 'horario': '01:53',
+ 'id_section': '2019111923',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/3619.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Need For Speed: O Filme',
+ 'titulo': 'Need For Speed: O Filme',
+ 'titulo_original': 'Need For Speed'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os assuntos mais importantes do Brasil e do mundo, com '
+              'apresentação de Roberto Kovalick.',
+ 'dia': '22',
+ 'horario': '04:00',
+ 'id_section': '201911221',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6682.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5.jpg',
+ 'mes': '11',
+ 'pragrama': 'Hora Um',
+ 'programa_do_dia': 'Hora Um',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Leal Mota Filho mostra as principais notícias das suas manhãs.',
+ 'dia': '22',
+ 'horario': '06:00',
+ 'id_section': '201911222',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7255.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3427.JPG',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Ceará',
+ 'programa_do_dia': 'Bom Dia Ceará',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O telejornal, com apresentação de Chico Pinheiro e Ana Paula '
+              'Araújo, exibe as primeiras notícias do dia no Brasil e no mundo '
+              'e repercute os fatos mais relevantes.',
+ 'dia': '22',
+ 'horario': '08:00',
+ 'id_section': '201911223',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6368.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Dia Brasil',
+ 'programa_do_dia': 'Bom Dia Brasil',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Ana Maria Braga apresenta assuntos de interesse da família, '
+              'como economia popular e saúde, além das delícias da culinária.',
+ 'dia': '22',
+ 'horario': '09:00',
+ 'id_section': '201911224',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/10.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/9.jpg',
+ 'mes': '11',
+ 'pragrama': 'Mais Você',
+ 'programa_do_dia': 'Mais Você',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A apresentadora Fátima Bernardes comanda o programa que mistura '
+              'comportamento, prestação de serviço, informação, música, '
+              'entretenimento e muita diversão.',
+ 'dia': '22',
+ 'horario': '10:30',
+ 'id_section': '201911225',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/870.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/571.jpg',
+ 'mes': '11',
+ 'pragrama': 'Encontro com Fátima Bernardes',
+ 'programa_do_dia': 'Encontro com Fátima Bernardes',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Luiz Esteves e Nádia Barros mostram o que está acontecendo '
+              'durante o dia em na Região Metropolitana de Fortaleza e '
+              'informações relevantes do Ceará.',
+ 'dia': '22',
+ 'horario': '12:00',
+ 'id_section': '201911226',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6562.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3428.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 1ª Edição',
+ 'programa_do_dia': 'CETV 1ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'O Globo Esporte atualiza o noticiário esportivo do dia com os '
+              'destaques do Ceará, do Brasil e do mundo.',
+ 'dia': '22',
+ 'horario': '13:00',
+ 'id_section': '201911227',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6563.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/36.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Esporte',
+ 'programa_do_dia': 'Globo Esporte',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Os destaques do dia no Brasil e no mundo, com apresentação de '
+              'Maria Júlia Coutinho.',
+ 'dia': '22',
+ 'horario': '13:25',
+ 'id_section': '201911228',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6834.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal Hoje',
+ 'programa_do_dia': 'Jornal Hoje',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Fernanda Gentil, Érico Brás e Fabiana Karla comandam programa '
+              'com a presença de convidados que vão participar das '
+              'brincadeiras com muito bom humor, diversão e aprendizado.',
+ 'dia': '22',
+ 'horario': '14:18',
+ 'id_section': '201911229',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6823.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7119.png',
+ 'mes': '11',
+ 'pragrama': 'Se Joga',
+ 'programa_do_dia': 'Se Joga',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Agente do FBI e mestre dos disfarces, Malcolm Turner precisa '
+              'capturar um perigoso fugitivo. Para tanto, arma tocaia em '
+              'frente à casa de uma matriarca conhecida como Vovó Zona, que '
+              'está para receber a visita da namorada do criminoso. Quando a '
+              'velha sai da cidade de surpresa, ele assume, disfarçado, seu '
+              'lugar. ',
+ 'dia': '22',
+ 'horario': '15:14',
+ 'id_section': '2019112210',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2497.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg',
+ 'mes': '11',
+ 'pragrama': 'Sessão da Tarde',
+ 'programa_do_dia': 'Sessão da Tarde - Vovó...Zona',
+ 'titulo': 'Vovó...Zona',
+ 'titulo_original': "Big Momma's House"}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por João Emanuel Carneiro, a saga de vingança, amor e '
+              'traição que parou o Brasil em 2012 está de volta.',
+ 'dia': '22',
+ 'horario': '16:47',
+ 'id_section': '2019112211',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6871.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg',
+ 'mes': '11',
+ 'pragrama': 'Vale a Pena Ver de Novo',
+ 'programa_do_dia': 'Vale a Pena Ver de Novo - Avenida Brasil',
+ 'titulo': 'Avenida Brasil',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Escrita por Emanuel Jacobina, com supervisão artística de '
+              'Carlos Araujo e direção artística de Adriano Melo, a trama traz '
+              'histórias de amor que se cruzam, sejam elas sobre casais, pais '
+              'e filhos, irmãos ou um grupo de amigos.',
+ 'dia': '22',
+ 'horario': '17:55',
+ 'id_section': '2019112212',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5281.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5280.png',
+ 'mes': '11',
+ 'pragrama': 'Malhação',
+ 'programa_do_dia': 'Malhação - Toda Forma de Amar',
+ 'titulo': 'Toda Forma de Amar',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "'Éramos Seis' é um remake que traz a história da família Lemos, "
+              'retratada ao longo de três décadas — 1920, 1930 e 1940 —, '
+              'diante dos desafios que a vida impõe e a rede de apoio que se '
+              'forma ao seu redor para superá-los.',
+ 'dia': '22',
+ 'horario': '18:27',
+ 'id_section': '2019112213',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7201.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6755.jpg',
+ 'mes': '11',
+ 'pragrama': 'Éramos Seis',
+ 'programa_do_dia': 'Éramos Seis',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Acompanhe as principais notícias do dia com Patrícia Nielsen.',
+ 'dia': '22',
+ 'horario': '19:12',
+ 'id_section': '2019112214',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5809.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/3432.JPG',
+ 'mes': '11',
+ 'pragrama': 'CETV 2ª Edição',
+ 'programa_do_dia': 'CETV 2ª Edição',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'A trama ressalta o valor da vida e a importância de se '
+              'aproveitar cada momento, a partir do encontro de Paloma e '
+              'Alberto.',
+ 'dia': '22',
+ 'horario': '19:32',
+ 'id_section': '2019112215',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6233.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/6232.jpg',
+ 'mes': '11',
+ 'pragrama': 'Bom Sucesso',
+ 'programa_do_dia': 'Bom Sucesso',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As principais notícias do Brasil e do mundo, com apresentação '
+              'de William Bonner e Renata Vasconcellos. ',
+ 'dia': '22',
+ 'horario': '20:30',
+ 'id_section': '2019112216',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png',
+ 'mes': '11',
+ 'pragrama': 'Jornal Nacional',
+ 'programa_do_dia': 'Jornal Nacional',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Escrita por Walcyr Carrasco, 'A Dona do Pedaço' exalta o poder "
+              'feminino por meio da trajetória de Maria e traz uma história '
+              'contemporânea de amor com elementos de um dos maiores clássicos '
+              'da literatura mundial: Romeu e Julieta.',
+ 'dia': '22',
+ 'horario': '21:17',
+ 'id_section': '2019112217',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/5598.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5770.jpg',
+ 'mes': '11',
+ 'pragrama': 'A Dona do Pedaço',
+ 'programa_do_dia': 'A Dona do Pedaço',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo '
+              'Repórter’ é o jornalístico documental que vai ao ar nas noites '
+              'de sexta-feira. ',
+ 'dia': '22',
+ 'horario': '22:43',
+ 'id_section': '2019112218',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/6925.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/44.jpg',
+ 'mes': '11',
+ 'pragrama': 'Globo Repórter',
+ 'programa_do_dia': 'Globo Repórter',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': "Episódio 'Sra. & Sr. Trowbridge': Na França, Will e Frankie "
+              'precisam fingir que são um casal para se infiltrar em um '
+              'casamento e capturar um assassino. ',
+ 'dia': '22',
+ 'horario': '23:34',
+ 'id_section': '2019112219',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7297.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/5873.png',
+ 'mes': '11',
+ 'pragrama': 'Sessão Globoplay',
+ 'programa_do_dia': 'Sessão Globoplay',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'As notícias do dia com a análise de comentaristas, espaço para '
+              'a crônica e opinião.',
+ 'dia': '22',
+ 'horario': '00:21',
+ 'id_section': '2019112220',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/30.jpg',
+ 'mes': '11',
+ 'pragrama': 'Jornal da Globo',
+ 'programa_do_dia': 'Jornal da Globo',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz '
+              'entretenimento de qualidade e quem pode contribuir em debates '
+              'relevantes para a sociedade brasileira. ',
+ 'dia': '22',
+ 'horario': '01:01',
+ 'id_section': '2019112221',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg',
+ 'mes': '11',
+ 'pragrama': 'Conversa com Bial',
+ 'programa_do_dia': 'Conversa com Bial',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Episódio: ‘Tiro No Coração do Schott’: Após a morte de seu pai, '
+              'Winn precisa trabalhar com sua mãe distante para deter um '
+              'imitador do Toyman.',
+ 'dia': '22',
+ 'horario': '01:46',
+ 'id_section': '2019112222',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7298.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/4165.jpg',
+ 'mes': '11',
+ 'pragrama': 'Supergirl',
+ 'programa_do_dia': 'Supergirl',
+ 'titulo': '',
+ 'titulo_original': None}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Um dia caótico na vida profissional de uma arquiteta e de um '
+              'jornalista, ambos divorciados, que se vêem obrigados a cuidar '
+              'de seus filhos numa ocasião que pode ser decisiva para suas '
+              'respectivas carreiras. De personalidades marcantes, os dois a '
+              'princípio se estranham, mas depois começam a se sentir atraídos '
+              'um pelo outro.',
+ 'dia': '22',
+ 'horario': '02:33',
+ 'id_section': '2019112223',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1674.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão I',
+ 'programa_do_dia': 'Corujão I - Um Dia Especial',
+ 'titulo': 'Um Dia Especial',
+ 'titulo_original': 'One Fine Day'}
+2019-11-18 10:45:30 [scrapy] DEBUG: Scraped from <200 https://redeglobo.globo.com/tvverdesmares/programacao/>
+{'ano': '2019',
+ 'descricao': 'Sofia é uma garota de 7 anos que tem enfrentado problemas na '
+              'escola, por não se interessar nas matérias ensinadas. Após se '
+              'trancar em uma sala e pintá-la por completo, seu pai é chamado '
+              'ao local. Meio afastado dela devido ao trabalho como '
+              'jornalista, ele se reaproxima após o pedido da própria Sofia '
+              'para que more com ele. Aos poucos, ele percebe que a menina não '
+              'só uma criança bastante espontânea, que se manifesta através da '
+              'pintura, mas que também possui o dom de curar pessoas doentes.',
+ 'dia': '22',
+ 'horario': '04:19',
+ 'id_section': '2019112224',
+ 'imagem_programa': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/7222.jpg',
+ 'logo': 'https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/33.jpg',
+ 'mes': '11',
+ 'pragrama': 'Corujão II',
+ 'programa_do_dia': 'Corujão II - A Menina Índigo',
+ 'titulo': 'A Menina Índigo',
+ 'titulo_original': 'A Menina Índigo'}
+2019-11-18 10:45:30 [scrapy] INFO: Closing spider (finished)
+2019-11-18 10:45:30 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 472,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 132797,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 2,
+ 'elapsed_time_seconds': 1.125002,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 11, 18, 13, 45, 30, 573766),
+ 'item_scraped_count': 203,
+ 'log_count/DEBUG': 205,
+ 'log_count/INFO': 7,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2019, 11, 18, 13, 45, 29, 448764)}
+2019-11-18 10:45:30 [scrapy] INFO: Spider closed (finished)
