@@ -8,24 +8,11 @@ class DiarioNordesteSpider(scrapy.Spider):
 	name = 'diario_nordeste'
 	allowed_domains = ['diariodonordeste.verdesmares.com.br']
 	start_urls = [
-		'https://diariodonordeste.verdesmares.com.br/editorias/negocios/online/bc-e-febraban-assinam-acordo-para-mutirao-de-renegociacao-de-dividas-1.2177536',
+		'https://diariodonordeste.verdesmares.com.br/editorias/seguranca/online/dois-sobreviventes-da-queda-do-edificio-andrea-recebem-alta-hospitalar-1.2171459',
+		'https://diariodonordeste.verdesmares.com.br/editorias/negocios/online/como-pagar-ipva-atrasado-1.2044940',
+		'https://diariodonordeste.verdesmares.com.br/editorias/verso/online/gloria-maria-tem-alta-hospitalar-apos-passar-por-cirurgia-de-emergencia-no-cerebro-1.2175716',
+		'https://diariodonordeste.verdesmares.com.br/servicos/ultima-hora',
 	]
-
-	def __init__(self, *args, **kwargs):
-		try:
-			urls = open('urls.csv').readlines()
-
-			for i in range(len(urls)):
-				if i != 0:
-					url = str(urls[i].strip())
-					if( len(url) > 10 ):
-						self.start_urls.append(url)
-
-		except FileNotFoundError:
-			print('File does not exist')
-
-		self.logger.info(self.start_urls)
-		super(DiarioNordesteSpider, self).__init__(*args, **kwargs)
 
 	def parse(self, response):
 		if response.css("h1.c-page-head__name a::text").extract_first() == 'Última Hora':
