@@ -1,3 +1,0 @@
-2019-11-18 16:01:37 [scrapy] DEBUG: Crawled (200) <GET https://diariodonordeste.verdesmares.com.br/robots.txt> (referer: None)
-2019-11-18 16:01:37 [scrapy] DEBUG: Crawled (200) <GET https://diariodonordeste.verdesmares.com.br/editorias/verso/online/gloria-maria-tem-alta-hospitalar-apos-passar-por-cirurgia-de-emergencia-no-cerebro-1.2175716> (referer: None)
-2019-11-18 16:01:37 [scrapy] DEBUG: Crawled (200) <GET https://diariodonordeste.verdesmares.com.br/servicos/ultima-hora> (referer: None)
