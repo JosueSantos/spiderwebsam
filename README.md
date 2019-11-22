@@ -18,6 +18,12 @@
 ##### Utiliza o Scrapy
 ![](https://scrapy.org/favicons/apple-touch-icon-180x180.png)
 
+###### Instalação
+
+* instale o python e a biblioteca scrapy
+* pip install scrapy
+
+
 Os comandos abaixo podem ser executados:
 
 * scrapy runspider spider_web/spiders/diario_nordeste.py
